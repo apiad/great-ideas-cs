@@ -10,4 +10,5 @@ A beginner-friendly introduction to some of the greatest ideas in Computer Scien
   - Turing machines
   - von Newman architecture
   
-2. 
+2. Programming languages
+  - Recursion
