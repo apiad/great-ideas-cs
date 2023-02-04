@@ -2,7 +2,8 @@
 
 
 ## Main Point
-Formality and rigour have always had a place in math: Alan Turing, Euclid, Descartes, Newton, Leibniz, Gauss, …
+Formality and rigour have always had a place in math: Alan Turing, Euclid, Descartes, Newton, Leibniz, Gauss, 
+
 
 ## Main Point
 Intuitive explanations for the notions of axioms, theorems, and proofs
@@ -21,13 +22,34 @@ Proofs are generally made to prove the logical soundness of a mathematical state
 
 First-order logic was mostly developed by the end of the 19th century, including set theory (with Cantor) and its weird ideas about infinity
 
+## Sub-Point
+In simple words, [Logic](https://en.wikipedia.org/wiki/Logic) is the study of correct reasoning, i.e, the systematic understanding of how things should go. Logic is also used as means of fomarlizing natural language, the process of which is called, [first order logic](https://en.wikipedia.org/wiki/First-order_logic).
+
+First order Logic (also known as predicate logic) is a collection of formal systems used in the sciences of i.e maths and computer sciences, etc. It is a formal language used in mathematical logic and computer science to describe the relationships between objects and concepts, It allows us to express statements that involve objects, their properties, and their relationships to one another, using symbols and a set of rules to form well-formed axioms, theorems, and proofs, for example, here are some basic instances where natural language is transpiled into the syntax of first order logic, it is worthy to note that to fully understand firt ordr logic, you should tak e a look at the [syntax](https://en.wikipedia.org/wiki/First-order_logic#Syntax); 
+**Natural Language:** __All hu,mans are mortal
+
+## Main Point
+
+Russell discovers insidious logical statements that undermine the notion that all human thought can be axiomatized in a formal system 
+
+
 ## Main Point
 
 Hilbert’s dream of axiomatizing all mathematics and solving all important problems, including problem No 7 (Diophantine equations) which will be relevant to Computer Science later on
 
 ## Main Point
 
-Russell discovers insidious logical statements that undermine the notion that all human thought can be axiomatized in a formal system  
+The relationship between axioms and theorems and how they form theories
+
+## Sub-Point
+Theories are sets of sentences that explain ideas. They have basic ideas called axioms and other ideas that come from the axioms called theorems. There may also be sentences that define new words in the theory. The theorems of the theory include everything that comes from the axioms and the definitions. In simpllistic words, theories are made up of a se of theorems and theorems are made up of a set of axioms. 
+
+
+
+## Sub-Point
+To understand why Bertrand Rusell's [Logicism](https://en.wikipedia.org/wiki/Logicism), undermines the notion that human thought can be axiomatized,  
+
+
 
 ## Main Point
 
