@@ -25,8 +25,20 @@ First-order logic was mostly developed by the end of the 19th century, including
 ## Sub-Point
 In simple words, [Logic](https://en.wikipedia.org/wiki/Logic) is the study of correct reasoning, i.e, the systematic understanding of how things should go. Logic is also used as means of fomarlizing natural language, the process of which is called, [first order logic](https://en.wikipedia.org/wiki/First-order_logic).
 
-First order Logic (also known as predicate logic) is a collection of formal systems used in the sciences of i.e maths and computer sciences, etc. It is a formal language used in mathematical logic and computer science to describe the relationships between objects and concepts, It allows us to express statements that involve objects, their properties, and their relationships to one another, using symbols and a set of rules to form well-formed axioms, theorems, and proofs, for example, here are some basic instances where natural language is transpiled into the syntax of first order logic, it is worthy to note that to fully understand firt ordr logic, you should tak e a look at the [syntax](https://en.wikipedia.org/wiki/First-order_logic#Syntax); 
-**Natural Language:** __All hu,mans are mortal
+First order Logic (also known as predicate logic) is a collection of formal systems used in the sciences of i.e maths and computer sciences, etc. It is a formal language used in mathematical logic and computer science to describe the relationships between objects and concepts, It allows us to express statements that involve objects, their properties, and their relationships to one another, using symbols and a set of rules to form well-formed axioms, theorems, and proofs, for example, here are some basic instances where natural language is transpiled into the syntax of first order logic, it is worthy to note that to fully understand firt ordr logic, you should take a look at the [syntax](https://en.wikipedia.org/wiki/First-order_logic#Syntax); 
+
+**Natural Language:** _All humans are mortal_ 
+
+**First Order Logic:**_Universal quantification: ∀x [human(x) → mortal(x)])_
+
+**Natural Language:** _Alan Turing is a human_
+
+**First Order Logic:** _(Predicate: human(Alan Turing))_
+
+Set theory is crucial for understanding, implementing, and manipulating first order logic due to the fact that with regards set theory, the basic objects of importance are sets, which can contain elements and be related to other sets through set-theoretic operations. This allows first-order logic to talk about objects, features, and relationships in a precise and unambiguous way, making it a powerful tool for formal reasoning in Computer Science.
+
+A German Mathematician, Georg Cantor formulated a theory called [Cantor's Theorem](https://en.wikipedia.org/wiki/Cantor%27s_theorem), his theory simply states that a set is as a collection of distinct objects (elements), and sets can also be elements of other sets. Cantor's Theroem bears similarities to First Order Logic in the sense that both provide a way to represent mathematical objects and properties using formal systems. Using simple extraplation it's safe to state that due to the fact that if we can implement everthing in First Order Logic Syntax then we can easily prove all thereoms due to the fact that proofs are generally promulgated to prove the logical soundness of a theorem. 
+
 
 ## Main Point
 
@@ -53,7 +65,10 @@ To understand why Bertrand Rusell's [Logicism](https://en.wikipedia.org/wiki/Log
 
 ## Main Point
 
-Hilbert posses the Entscheidungs problem
+Hilbert posses the Entscheidungsproblem
+
+
+
 
 ## Main Point
 
