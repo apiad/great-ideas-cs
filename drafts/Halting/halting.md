@@ -65,7 +65,10 @@ To understand why Bertrand Rusell's [Logicism](https://en.wikipedia.org/wiki/Log
 
 ## Main Point
 
-Hilbert posses the Entscheidungsproblem
+Hilbert and Ackerman pose the Entscheidungsproblem
+
+## Sub Point
+The [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) was posed by two scientists; David Hilbert and Wilhelm Ackerman, it is a concept from Computer Science and mathematics which poses the question of the existence of a systematic way (Algorithm) of solving all mathematical problems in Existence or if there are some problems which cannot be solved using this 'systematic way'.
 
 
 
