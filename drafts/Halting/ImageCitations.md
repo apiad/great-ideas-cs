@@ -13,3 +13,9 @@ This contains the link credits for all the images to be used in the Halting arti
 - **Leibniz.jpeg** : [Pinterest Link](https://www.pinterest.com/pin/636414991110392836/)
 
 - **Gauss.jpeg** : [Pinterest Link](https://www.pinterest.com/pin/746401338239334660/)
+
+- **Kurt Godel** : [Pinterest Link](https://www.pinterest.com/pin/61150507414932801/)
+
+- **Georg Cantor** : [Pinterest Link](https://www.pinterest.com/pin/719309371750598668/)
+
+- **Betrand Russel** : [Pinterest Link](https://www.pinterest.com/pin/845199055088699754/)

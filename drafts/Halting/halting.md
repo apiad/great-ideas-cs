@@ -4,13 +4,19 @@
 ## Main Point
 Formality and rigour have always had a place in math: Alan Turing, Euclid, Descartes, Newton, Leibniz, Gauss, 
 
+## Sub Points
+In classic definition, Formality is the adherance to laid down laws, rules, and principles. In mathematics, a theorem is called _"formal"_ when it is expressed in a form (usually mathematical) such that there is no ambiguity as to the meaning and implications of its expressions, rigour, as it relates to Formality in mathematics, is simply the strict adherence to the laws, principles, and rules guiding the proving of the formality of mathematical theorems. 
+
+
 
 ## Main Point
-Intuitive explanations for the notions of axioms, theorems, and proofs
+Intuitive explanations for the notions of axioms, theorems, mathematical expressions, and proofs
 
   ## Sub-Points
 **Axioms:** Axioms originated from the greek word _"Axioma"_ which means  _"To deem worthy"_. In simple words, axioms are the starting point for any Logical theory or argument, that is, 	they are those universal basic truths everyone agrees on and no one argues about, for example, the _[axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice)_ which simply states that 
 for every collection of sets, one can create a new set using elements from each set in the original collection.
+
+**Mathematical Expressions:** A mathematical expression is the use of mathematical symbols, variables, operators, and numbers to describe a relationship between two objects. A simple example of a mathematical expression is: _2x + 4 = 20_, this is a simple algebraic expression which describes the relationship the variable X and answer 20.
 
 **Theorems:** A theorem is simply a mathematical statement that has been proven or is being proven through deductive reasoning. They provide the basis for the development of mathematical theory. A mathematical theorem everyone is no doubt familiar with is _[Pythagoras Theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem) (C^2 = A^2+B^2)_. It should be noted that, although, used interchnageably, in a mathematical context, the words theory and theorem do not mean the same thing. In short, a theory is the comprehensive explanation of a subject or phenomena, while, a theorem is a proven mathematical statement. 
 
@@ -41,34 +47,44 @@ A German Mathematician, Georg Cantor formulated a theory called [Cantor's Theore
 
 
 ## Main Point
-
 Russell discovers insidious logical statements that undermine the notion that all human thought can be axiomatized in a formal system 
+
+## Sub-Point
+In the 19th century, [Betrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) began working on creating a rigorous logical framework which served to prove that all human thought could be expressed logically, this framework came to be known as [Logicism](https://en.wikipedia.org/wiki/Logicism), but while working on his framework he came across a paradox, which undermined the notion his framework was aimed to uphold. 
+
+The paradox proposes amental experiment where you have a Set (called Set A) which contains all the lists in existence, that list must list itself else it would be incomplete, but if that Set(Set A) does list itself then it is transformed into another set (Set B) which will in turn need to list itself and will end in the generation of another list, and this ends up becoming an endless loop, the paradox (which came to be known as [Russel's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox#:~:text=In%20mathematical%20logic%2C%20Russell's%20paradox,comprehension%20principle%20leads%20to%20contradictions.) led Russel to believe that not all of human thought could be described logically (axiomatized).
 
 
 ## Main Point
 
 Hilbert’s dream of axiomatizing all mathematics and solving all important problems, including problem No 7 (Diophantine equations) which will be relevant to Computer Science later on
 
+## Sub-Point
+German Mathematician [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert), had the goal of creating a generalized axiomatic system for all of mathematics which would serve as the foundation for mathematics. Hilbert believd that if all of mathematics could b reducced to a set of simple truths (axioms) then all the mathematical solutions conceived could be deduced from that axiomatic system through the use of logic. 
+
+He believed that the axiomatic system could help in solving all of the important problems in mathematics and said system could help decide which problems could be solved and which couldn't. David Hilbert compiled a lit of problems which he termed "The most important problems in mathematics", among which lies the Diophantine problem (AKA Problem number 7), the problem proposes the question; if there exists an algorithm which aids in determining whether there exists an algorithm for determining whther a given [Diophantine equation](https://en.wikipedia.org/wiki/Diophantine_equation#:~:text=In%20mathematics%2C%20a%20Diophantine%20equation,monomials%2C%20each%20of%20degree%20one.) has a soluiton in integers. 
+
+Hilbert believed that this problem and a host of others could be solved by the creation of an axiomatic system of logic.
+
+Hil
+
+
 ## Main Point
-
-The relationship between axioms and theorems and how they form theories
-
-## Sub-Point
-Theories are sets of sentences that explain ideas. They have basic ideas called axioms and other ideas that come from the axioms called theorems. There may also be sentences that define new words in the theory. The theorems of the theory include everything that comes from the axioms and the definitions. In simpllistic words, theories are made up of a se of theorems and theorems are made up of a set of axioms. 
-
-
+Relationship between theorems and axioms.
 
 ## Sub-Point
-To understand why Bertrand Rusell's [Logicism](https://en.wikipedia.org/wiki/Logicism), undermines the notion that human thought can be axiomatized,  
+Theories are sets of sentences that explain ideas. They have basic ideas called axioms and other ideas that come from the axioms called theorems. There may also be sentences that define new words in the theory. The theorems of the theory include everything that comes from the axioms and the definitions. In simpllistic words, theories are made up of a set of theorems and theorems are made up of a set of axioms. 
 
 
+
+ 
 
 ## Main Point
 
 Hilbert and Ackerman pose the Entscheidungsproblem
 
 ## Sub Point
-The [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) was posed by two scientists; David Hilbert and Wilhelm Ackerman, it is a concept from Computer Science and mathematics which poses the question of the existence of a systematic way (Algorithm) of solving all mathematical problems in Existence or if there are some problems which cannot be solved using this 'systematic way'.
+The [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) was posed by two scientists; David Hilbert and Wilhelm Ackerman, it is a concept from Computer Science and mathematics which poses the question of the existence of a systematic way (Algorithm) of solving all mathematical problems in Existence or if there are some problems which cannot be solved using this _'systematic way'_.
 
 
 
@@ -77,3 +93,7 @@ The [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) w
 
 Godel proves that first-order logic is complete and consistent, but obliterates the dream of proving all math complete and consistent
 
+## Sub-Point
+As discussed easrlier in order for a mathematical thereom to be accepted, it must be rigourously formalized, but according to [Kurt Godel's Incompleteness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems), it is impossible to to completley describe a mathematical theroem fully in the sense that, it is in general impossible to explicitly state all the necessary and sufficient conditions for a particular thereom to be valid. There always remains an element of indeterminacy, and completely unambiguous description is impossible. 
+
+Godel argues that the goal of formality in mathematics is not to completely remove every element of indeterminacy and ambiguity from a mathematical expression, but to formally describe it in manner that can be easily understood, because mathematical expressions must have a minimal formality in order to be understandable at all.
